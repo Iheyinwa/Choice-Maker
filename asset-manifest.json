@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Choice-maker/static/css/main.190e4fe4.chunk.css",
+    "main.js": "/Choice-maker/static/js/main.fd530f8e.chunk.js",
+    "main.js.map": "/Choice-maker/static/js/main.fd530f8e.chunk.js.map",
+    "runtime-main.js": "/Choice-maker/static/js/runtime-main.ccbdb247.js",
+    "runtime-main.js.map": "/Choice-maker/static/js/runtime-main.ccbdb247.js.map",
+    "static/js/2.fe8f2a44.chunk.js": "/Choice-maker/static/js/2.fe8f2a44.chunk.js",
+    "static/js/2.fe8f2a44.chunk.js.map": "/Choice-maker/static/js/2.fe8f2a44.chunk.js.map",
+    "static/js/3.2903b3aa.chunk.js": "/Choice-maker/static/js/3.2903b3aa.chunk.js",
+    "static/js/3.2903b3aa.chunk.js.map": "/Choice-maker/static/js/3.2903b3aa.chunk.js.map",
+    "index.html": "/Choice-maker/index.html",
+    "static/css/main.190e4fe4.chunk.css.map": "/Choice-maker/static/css/main.190e4fe4.chunk.css.map",
+    "static/js/2.fe8f2a44.chunk.js.LICENSE.txt": "/Choice-maker/static/js/2.fe8f2a44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccbdb247.js",
+    "static/js/2.fe8f2a44.chunk.js",
+    "static/css/main.190e4fe4.chunk.css",
+    "static/js/main.fd530f8e.chunk.js"
+  ]
+}
